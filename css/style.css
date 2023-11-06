@@ -574,6 +574,9 @@ input,textarea {
     6. Rev Slider style
 =============================================
 */
+.rev_slider_wrapper {
+	height: 75vh !important;
+}
 .rev_slider_wrapper .slide-content-box h1{
 	font-size: 50px;
 	color:#fff;
